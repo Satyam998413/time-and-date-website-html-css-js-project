@@ -1,0 +1,30 @@
+.container{
+    background-color: violet;
+    background-image: url(536551.jpg);
+    background-size: contain;
+    color: wheat;
+    border: 5px solid red;
+    /* height: 50vh; */
+}
+#time{
+    color: red;
+}
+}
+nav{
+    color: blue';
+}
+body{
+    background-color:gray;
+    background-image: url(sat.jpg);
+    background-size:100vw 100vh;
+    width:100vw;
+    height: 100vh;
+}
+footer{
+    margin-top: 40vh;
+    text-decoration-style:double ;
+}
+#footer h5{
+    margin-left: 65vw;
+
+}
